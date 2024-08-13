@@ -1,6 +1,6 @@
 # Basic "About page" 
 
-This is an example for basic documenation project.
+This is an example for basic documenation project. 2222222
 It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
 
 Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
